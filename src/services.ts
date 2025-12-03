@@ -273,7 +273,7 @@ export const registerServices = (container: Container): Container => {
             skills: ['Robotics', 'OOP', 'Computer Vision', 'C++', 'Python', 'Git', 'Design Patterns'],
           },
           {
-            company: 'Intela',
+            company: ' ',
             role: 'Full-Stack AI/ML Engineer (Freelance)',
             period: 'Mar 2022 - Apr 2023',
             location: 'Remote',
@@ -334,7 +334,7 @@ export const registerServices = (container: Container): Container => {
             skills: ['Robotics', 'OOP', 'Computer Vision', 'C++', 'Python', 'Git', 'Design Patterns'],
           },
           {
-            company: 'Intela',
+            company: ' ',
             role: 'Full-Stack AI/ML Engineer (Freelance)',
             period: 'Mar 2022 - Apr 2023',
             location: 'Remote',
@@ -395,7 +395,7 @@ export const registerServices = (container: Container): Container => {
             skills: ['Robotics', 'OOP', 'Computer Vision', 'C++', 'Python', 'Git', 'Design Patterns'],
           },
           {
-            company: 'Intela',
+            company: ' ',
             role: 'Full-Stack AI/ML Engineer (Freelance)',
             period: 'Mar 2022 - Apr 2023',
             location: 'Remote',
